@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "serve": "http-server ./ -o"
+  },
+  "name": "quinns-landing-page",
+  "version": "1.0.0",
+  "description": "Quinn's LandingPage",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
